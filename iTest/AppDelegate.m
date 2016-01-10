@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  iTest
 //
-//  Created by Eloy Rico on 08/01/16.
+//  Created by Carlos Reyes on 08/01/16.
 //  Copyright © 2016 CR. All rights reserved.
 //
 
