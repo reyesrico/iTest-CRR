@@ -61,7 +61,7 @@
     
     //self.getReachibility;
     
-    //Settubg MBProgressHUD
+    //Setting MBProgressHUD
     [MBProgressHUD showHUDAddedTo:self.view animated:YES];
     dispatch_async(dispatch_get_global_queue( DISPATCH_QUEUE_PRIORITY_LOW, 0), ^{
         // Do something...
